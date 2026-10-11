@@ -1,0 +1,21 @@
+{
+  "name": "dsh-plugin-sync",
+  "version": "0.1.0",
+  "description": "Cordis plugin for DeepSeek Harness (dsh) to synchronize configs, prompts/rules, and profiles between local and server environments",
+  "type": "module",
+  "main": "index.mjs",
+  "author": "puyokura",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puyokura/dsh-plugin-sync.git"
+  },
+  "keywords": [
+    "cordis",
+    "plugin",
+    "dsh",
+    "deepseek-harness",
+    "sync",
+    "ssh"
+  ]
+}
